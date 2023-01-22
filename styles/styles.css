@@ -4,11 +4,13 @@
     font-family: 'Work Sans', sans-serif;
 }
 
-:root {
-    --p-color: #777777;
+.p {
+    color: #777777;
 }
-.p{
-    color: var(--p-color);
+
+.ts-btn {
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+
 }
 
 .ts-banner-title {
@@ -22,5 +24,15 @@
 }
 
 .ts-star-img {
-    width: 50px;
+    width: 75px;
+}
+
+.ts-banner-rating {
+    font-size: 50px;
+
+}
+
+.ts-banner-ratting-info {
+    position: relative;
+    bottom: 90px;
 }
