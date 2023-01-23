@@ -69,8 +69,38 @@
     bottom: 230px;
     right: 17px;
 }
-.grid-div{
+
+.grid-div {
     position: absolute;
     top: 1365px;
-   left:770px;
+    left: 770px;
+}
+
+.ts-client {
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    width: 1140px;
+    height: 650px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+}
+
+.ts-btn-client {
+    border: 0;
+    color: white;
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    background-color: white;
+    position: absolute;
+
+}
+
+.btn-for {
+    height: 50px;
+    width: 135px;
+    position: absolute;
+    top: 2505px;
 }
