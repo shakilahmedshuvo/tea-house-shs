@@ -8,6 +8,11 @@
     color: #777777;
 }
 
+.h {
+    font-weight: 800;
+    font-size: 45px;
+}
+
 .ts-btn {
     background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
 
@@ -35,4 +40,37 @@
 .ts-banner-ratting-info {
     position: relative;
     bottom: 90px;
+}
+
+.card {
+    background-color: #F4F4F4;
+}
+
+.ts-tea-bg {
+    background: linear-gradient(90deg, #D9D9D9 0%, rgba(255, 255, 255, 0) 100%);
+    width: 238px;
+    height: 136px;
+}
+
+.ts-grid {
+    width: 267px;
+    height: 391px;
+}
+
+.ts-grid-lt {
+    position: relative;
+    right: 300px;
+    top: 417px;
+    right: 310px;
+}
+
+.ts-grid-row {
+    position: relative;
+    bottom: 230px;
+    right: 17px;
+}
+.grid-div{
+    position: relative;
+    bottom: 785px;
+    left: 660px;
 }
