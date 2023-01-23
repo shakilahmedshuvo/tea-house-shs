@@ -70,7 +70,7 @@
     right: 17px;
 }
 .grid-div{
-    position: relative;
-    bottom: 785px;
-    left: 660px;
+    position: absolute;
+    top: 1365px;
+   left:770px;
 }
